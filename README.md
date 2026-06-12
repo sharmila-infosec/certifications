@@ -10,7 +10,7 @@
 |---|--------|--------|-------------|
 | 1 | Foundations of Cybersecurity | ✅ Completed | [View Certificate](https://coursera.org/verify/DA3RB2L6ZMT1) |
 | 2 | Play It Safe: Manage Security Risks | ✅ Completed | [View Certificate](https://coursera.org/verify/T0MN2XS5NGPI) |
-| 3 | Connect and Protect: Networks and Network Security | 🔄 In Progress | — |
+| 3 | Connect and Protect: Networks and Network Security | ✅ Completed | [View Certificate](https://coursera.org/verify/H0XDAAJVAICO) |
 | 4 | Tools of the Trade: Linux and SQL | ⏳ Upcoming | — |
 | 5 | Assets, Threats, and Vulnerabilities | ⏳ Upcoming | — |
 | 6 | Sound the Alarm: Detection and Response | ⏳ Upcoming | — |
